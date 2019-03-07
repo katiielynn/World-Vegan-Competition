@@ -1,0 +1,20 @@
+Body {
+   color: rgb(0, 128, 0);
+ font-family:times;
+ margin: 0px;
+}
+
+div.topnav {
+  text-align: center;
+  font-size: 3em;}
+
+h1{
+  text-align: center;
+  font-size: 5em;}
+
+p{
+  text-align: center;
+  font-size: 2em;}
+
+img{
+  image-orientation:center;}
