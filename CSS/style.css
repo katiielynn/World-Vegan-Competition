@@ -1,12 +1,14 @@
+img#logo {image-orientation: :center;}
 
-Body {
+  Body {
+    background-image:url("https://vignette.wikia.nocookie.net/cookingmama/images/5/50/Wiki-background/revision/latest?cb=20121101074217");
+  background-repeat: repeat;
    color: rgb(0, 128, 0);
  font-family:times;
- margin: 0px;
-}
+ margin: 0px;}
 
 h1{
-  text-align: center;
+  text-align:center;
   font-size: 5em;}
 
 p{
@@ -15,3 +17,8 @@ p{
 
 img{
   image-orientation:center;}
+
+div#carouselExampleCaptions {display:flex;
+  padding:70px;
+  margin:auto;
+  border-radius:auto;}
