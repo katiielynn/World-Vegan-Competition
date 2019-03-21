@@ -1,20 +1,29 @@
-Body {
-   color: rgb(0, 128, 0);
- font-family:times;
- margin: 0px;
-}
 
-div.topnav {
-  text-align: center;
-  font-size: 3em;}
 
 h1{
-  text-align: center;
+  text-align:center;
   font-size: 5em;}
+
+
+  Body {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGpb63vN8wmWHwcqC7KipgXaXO7C0vqAOvtNVDKQmSZRcxtihZfw");
+  background-repeat: repeat;
+   color: rgb(0, 128, 0);
+ font-family:times;
+ margin: 0px;}
+
 
 p{
   text-align: center;
   font-size: 2em;}
 
-img{
+img{ display: flex;
   image-orientation:center;}
+
+div#carouselExampleCaptions {display: flex;
+padding: 20px;
+margin:auto;
+border-radius: 130px;}
+
+div#regions {text-align: center;
+   font-size: 2em;}
