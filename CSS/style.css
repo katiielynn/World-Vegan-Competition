@@ -23,7 +23,9 @@ img{ display: flex;
 div#carouselExampleCaptions {display: flex;
 padding: 20px;
 margin:auto;
-border-radius: 130px;}
+border-radius: 130px;
+
+}
 
 div#regions {text-align: center;
    font-size: 2em;}
