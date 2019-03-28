@@ -1,9 +1,4 @@
-
-
-h1{
-  text-align:center;
-  font-size: 5em;}
-
+img#logo {image-orientation: :center;}
 
   Body {
     background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGpb63vN8wmWHwcqC7KipgXaXO7C0vqAOvtNVDKQmSZRcxtihZfw");
@@ -12,20 +7,18 @@ h1{
  font-family:times;
  margin: 0px;}
 
+h1{
+  text-align:center;
+  font-size: 5em;}
 
 p{
   text-align: center;
   font-size: 2em;}
 
-img{ display: flex;
+img{
   image-orientation:center;}
 
-div#carouselExampleCaptions {display: flex;
-padding: 20px;
-margin:auto;
-border-radius: 130px;
-
-}
-
-div#regions {text-align: center;
-   font-size: 2em;}
+div#carouselExampleCaptions {display:flex;
+  padding:70px;
+  margin:auto;
+  border-radius:auto;}
