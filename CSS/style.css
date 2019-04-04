@@ -19,21 +19,6 @@ img{
   image-orientation:center;}
 
 div#carouselExampleCaptions {display:flex;
-  padding:70px;
-  margin:auto;
-  border-radius:auto;}
-
-  .topnav {
-  overflow: hidden;
-  background-color: #e9e9e9;
-}
-
-.topnav a {
-  float: left;
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
+  padding:30px;
+  margin:auto;}
+div#regions{ font-size: 1em;}
